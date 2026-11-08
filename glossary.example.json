@@ -1,0 +1,5 @@
+{
+ "_doc": "One entry per unit name. what = one line you'd recognise; not = a common confusion; status = override (paused, parked, done...); block = ledger block number (optional). Copy to glossary.json.",
+ "my-app": {"what": "The budgeting web app I built in 2025.", "not": "Scrapers"},
+ "Thesis": {"what": "Bachelor thesis drafts and sources.", "status": "done"}
+}

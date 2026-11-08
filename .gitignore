@@ -1,0 +1,6 @@
+config.py
+glossary.json
+gold-labels.json
+out/
+__pycache__/
+*.pyc
